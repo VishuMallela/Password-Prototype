@@ -1,4 +1,6 @@
-REM To make the protype of a sEimple password program
+REM To make the protype of a Simple password program
+''This project is by VishuMallela
+''More features coming soon!
 INCORRECT = 0
 0 CLS
 1 PRINT "Welcome to the PASSWORDPROTOTYPE.bas. Type"
